@@ -1,5 +1,5 @@
 General Rules-
-1. No Custom Parts.
+1. No Custom Parts, procedural parts only with vanilla equivalent sliders and parts.
 2. No Instant Progress.
 3. No Revert functionality except for 'testing' (explained later).
 4. Fictional Agencies and Organizations only.
@@ -12,3 +12,4 @@ Testing-
 
 Additional info-
 No need to share quicksaves.
+Can be done in any difficulty, preferably Realistic Mode 
