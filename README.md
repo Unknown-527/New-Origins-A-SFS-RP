@@ -6,7 +6,7 @@ Agency name | Owner | Lauches
 --- | --- | ---
 Unknown Space Research Organization(USRO) | Unknown_527 | 3
 National Macanautics Agency (NMA) | Macanautics | N/A
-NOVA Imperium | ILoveMEMES | N/A
+NOVA Imperium | ILoveMEMES | 1
 ∆×ial Aerospace (∆×A) | Axioms | 1
 Kepler Space Agency(KSA) | Idk1 | N/A
  
@@ -17,3 +17,4 @@ SSR 1 | Atmospheric and Gravity research | USRO | Realistic | Success
 SSR 2 | Undisclosed | USRO | Realistic | Failure
 ISR 1 | Suborbital and Atmospheric Research | ∆×A |Realistic | Success
 SSR 3 | Suborbital Medium Altitude Research | USRO | Realistic | Success
+NOVA SBJ | Suborbital Research | NOVA | Realistic | Success
