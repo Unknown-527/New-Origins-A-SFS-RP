@@ -1,3 +1,6 @@
+Cheats allowed-
+Part Clipping, Infinite Build, No Heat Engines(if not overused for high thrust, only aesthetic or more thrust), No Collision Damage(Landing Planes only)
+
 General Rules-
 1. No Custom Parts, procedural parts only with vanilla equivalent sliders and parts.
 2. No Instant Progress.
