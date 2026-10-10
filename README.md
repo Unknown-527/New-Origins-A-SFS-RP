@@ -15,4 +15,5 @@ Launch name | Objective | Agency | Difficulty | Status
 --- | --- | --- | ---| ----
 SSR 1 | Atmospheric and Gravity research | USRO | Realistic | Success
 SSR 2 | Undisclosed | USRO | Realistic | Failure
+ISR 1 | Suborbital and Atmospheric Research | Realistic | Success
 SSR 3 | High Altitude Research | USRO | Realistic | Success
