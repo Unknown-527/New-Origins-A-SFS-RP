@@ -9,7 +9,7 @@ National Macanautics Agency (NMA) | Macanautics | N/A
 NOVA Imperium | ILoveMEMES | 2
 ∆×ial Aerospace (∆×A) | Axioms | 1
 Kepler Space Agency(KSA) | Idk1 | 1
-Anto Republic(Anto) | Wyatt0609 | N/A
+Anto Republic(Anto) | Wyatt0609 | 2
  
 # Launches
 Launch name | Objective | Agency | Difficulty | Status
@@ -22,3 +22,5 @@ CSBJ 1 | Suborbital Research | NOVA | Realistic | Success
 Demo 1 | Recovery Test | KSA | Hard | Failure
 SSR 4 | Suborbital High Altitude Research | USRO | Realistic | Success
 CSBJ 2 | Suborbital Research | NOVA | Realistic | Success
+Antis 1 | Suborbital Research | Anto | Realistic | Success
+Antis 2 | Suborbital Research | Anto | Realistic | Success
