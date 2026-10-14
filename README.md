@@ -5,8 +5,8 @@ A Roleplay
 Agency name | Owner | Lauches
 --- | --- | ---
 Unknown Space Research Organization(USRO) | Unknown_527 | 5
-National Macanautics Agency (NMA) | Macanautics | N/A
-NOVA Imperium | ILoveMEMES | 2
+National Macanautics Agency (NMA) | Macanautics | 1
+NOVA Imperium | ILoveMEMES | 3
 ∆×ial Aerospace (∆×A) | Axioms | 1
 Kepler Space Agency(KSA) | Idk1 | 1
 Anto Republic(Anto) | Wyatt0609 | 2
@@ -25,3 +25,5 @@ CSBJ 2 | Suborbital Research | NOVA | Realistic | Success
 Antis 1 | Suborbital Research | Anto | Realistic | Success
 Antis 2 | Suborbital Research | Anto | Realistic | Success
 OLV 1 | Orbital Demo | USRO | Success
+Unnamed Mission | Suborbital Research | NMA | Unknown | Success
+CSBJ 2.5 | Suborbital Research | NOVA | Realistic | Success
