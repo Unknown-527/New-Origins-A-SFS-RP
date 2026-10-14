@@ -24,6 +24,6 @@ SSR 4 | Suborbital High Altitude Research | USRO | Realistic | Success
 CSBJ 2 | Suborbital Research | NOVA | Realistic | Success
 Antis 1 | Suborbital Research | Anto | Realistic | Success
 Antis 2 | Suborbital Research | Anto | Realistic | Success
-OLV 1 | Orbital Demo | USRO | Success
+OLV 1 | Orbital Demo | USRO | Realistic | Success
 Unnamed Mission | Suborbital Research | NMA | Unknown | Success
-CSBJ 2.5 | Suborbital Research | NOVA | Realistic | Success
+CSBJ 2.5 | LES Test | NOVA | Realistic | Success
