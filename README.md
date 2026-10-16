@@ -6,7 +6,7 @@ Agency name | Owner | Lauches
 --- | --- | ---
 Unknown Space Research Organization(USRO) | Unknown_527 | 6
 National Macanautics Agency (NMA) | Macanautics | 1
-NOVA Imperium | ILoveMEMES | 4
+NOVA Imperium | ILoveMEMES | 5
 ∆×ial Aerospace (∆×A) | Axioms | 1
 Kepler Space Agency(KSA) | Idk1 | 1
 Anto Republic(Anto) | Wyatt0609 | 2
@@ -29,3 +29,4 @@ Capernaum I | Suborbital Research | NMA | Realistic | Success
 CSBJ 2.5 | LES Test | NOVA | Realistic | Success
 OLV 2 | Orbital Demo | USRO | Realistic | Success
 CSBJ 3 | Atmosphere-Breathing Sample Collection | NOVA | Realistic | Ongoing
+VSLJ 1 | Proof of Concept | NOVA | Realistic | Success
